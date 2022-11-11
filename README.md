@@ -42,8 +42,8 @@ Capitulo 2
 ![14](https://user-images.githubusercontent.com/116819100/200964391-fc7faadb-7c95-4dd9-a750-b3a3d64e4da8.png)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**4.VIDEOS**
-
+**4.VIDEO**
+https://youtu.be/7lIMA9G7T0k
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **5.CONCLUCIONES**
@@ -55,4 +55,4 @@ Como conclusion final hemos llegado a que la notación cientifica y el desarrolo
 
 **6.BIBLIOGRAFÍA**
 
-Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
+Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. 
